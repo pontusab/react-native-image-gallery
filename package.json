@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/archriss/react-native-image-gallery#readme",
   "dependencies": {
-    "prop-types": "15.5.10",
+    "prop-types": "15.6.0",
     "react-native-gesture-responder": "0.1.1",
     "react-native-scroller": "0.0.6",
-    "react-mixin": "^3.0.5",
+    "react-mixin": "^4.0.0",
     "react-timer-mixin": "^0.13.3"
   },
   "peerDependencies": {
@@ -28,14 +28,14 @@
     "react-native": "*"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
-    "eslint": "^3.19.0",
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.8.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-config-standard-react": "^5.0.0",
-    "eslint-plugin-import": "^2.3.0",
-    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
     "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-react": "^7.0.1",
+    "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-standard": "^3.0.1"
   }
 }
